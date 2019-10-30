@@ -62,6 +62,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Conductive](http://www.renickbell.net/doku.php?id=conductive) - A set of Haskell libraries for livecoding and real-time music applications.
 
   `Windows | macOS | GNU/Linux` `haskell`  `SuperCollider` `FLOSS` `audio`
+  
+- [Csound](https://csound.com/) - A sound and music computing system.
+
+  `Windows | macOS | GNU/Linux | Android | iOS | Web` `FLOSS` `audio`
 
 - [Cyril](http://cyrilcode.com/) - A programming language designed for fast prototyping of visualisations and livecoding visuals.
 
@@ -217,6 +221,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Bonzomatic](https://github.com/Gargaj/Bonzomatic) - GLSL and HLSL live coding environment, originally designed for live coding competitions at demoparties.
 - [CHmUsiCK](https://github.com/essteban/CHmUsiCK) - Library to make ChucK a 'more algorave like' language.
 - [cl-collider](https://github.com/byulparan/cl-collider) - A SuperCollider client for CommonLisp.
+- [csound-live-code](https://live.csound.com) - A web-based live coding environment and Csound user-code library for sound design and live coding.
 - [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe) - Software for live coding audio effects and synths.
 - [disclojure](https://github.com/pjagielski/disclojure) - A live coding environment for Overtone and Leipzig.
 - [EspGrid](https://github.com/d0kt0r0/EspGrid) - Synchronization and sharing for network music.
